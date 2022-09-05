@@ -53,7 +53,7 @@ pytorch可前往[官网下载](https://pytorch.org/get-started/previous-versions
 
 ## 运行程序
 
-安装完环境后，直接运行**`main_qt.py`**文件即可
+安装完环境后，直接运行`main_qt.py`文件即可
 
 model_data中的权重文件下载
 
