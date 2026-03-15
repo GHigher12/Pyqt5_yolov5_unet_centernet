@@ -86,3 +86,13 @@ model_data中的权重文件下载
 - `data`储存了待检测的图片及视频文件
 - `model_data`储存了yolov5、centernet、unet的权重文件
 - `md`储存了yolov5和centernet的官方说明文档
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=GHigher12%2FPyqt5_yolov5_unet_centernet&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=GHigher12/Pyqt5_yolov5_unet_centernet&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=GHigher12/Pyqt5_yolov5_unet_centernet&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=GHigher12/Pyqt5_yolov5_unet_centernet&type=date&legend=top-left" />
+ </picture>
+</a>
